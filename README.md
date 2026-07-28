@@ -20,7 +20,7 @@
 - 🤖 co-organized **Canada's largest AI hackathon** (400+ humans, uncounted agents) with AGI Ventures
 - 🐍 once automated **500+ hours a year** of manual work out of existence with 23 Python scripts
 - 🔭 in a previous life: **150+ astrophysics Wikipedia articles** and published research on variable stars. the stars were also debugged.
-- 🐈 cats. always cats.
+- 🐈 cats. always cats. 
 
 ## 🧰 toolbox
 
