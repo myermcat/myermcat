@@ -7,7 +7,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-let's_connect-4D96FF?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMHoiLz48L3N2Zz4=)](https://www.linkedin.com/in/myerm)
-[![Email](https://img.shields.io/badge/Email-say_hi-FF6B9D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yermolenko.maria@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-the_formal_version-FF6B9D?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/myermcat/myermcat/blob/main/Mariia_Yermolenko_Resume.pdf)
 [![The Digital Lifecycle Guide](https://img.shields.io/badge/Digital_Lifecycle_Guide-see_it_live-6BCB77?style=for-the-badge&logo=googlechrome&logoColor=white)](https://myermcat.github.io/digital-lifecycle-guide/)
 
 </div>
@@ -26,9 +26,16 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,ts,js,html,css,firebase,mysql,androidstudio,git,github&perline=12" alt="python, java, c++, typescript, javascript, html, css, firebase, mysql, android studio, git, github" />
+![Python](https://img.shields.io/badge/Python-4D96FF?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-f64f59?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-9D4EDD?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD93D?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-FF6B9D?style=for-the-badge&logo=html5&logoColor=white)
 
-<br/><br/>
+![Android Studio](https://img.shields.io/badge/Android_Studio-6BCB77?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFA62B?style=for-the-badge&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-12c2e9?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git_%26_GitHub-c471ed?style=for-the-badge&logo=git&logoColor=white)
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-my_pair_programmer-c471ed?style=flat-square&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-yes_that_too-FFD93D?style=flat-square&logo=databricks&logoColor=black)
